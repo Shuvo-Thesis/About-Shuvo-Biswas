@@ -28,12 +28,17 @@ Santosh, Tangail, Bangladesh
 
 🚀 Professional Experiences
 🔍 Current Position:
+
 💼 Lecturer
+
 Department of CSE
+
 Bangladesh University of Business and Technology (BUBT), Mirpur, Dhaka, Bangladesh (https://www.bubt.edu.bd/department/27/faculty/profile/25814)
 
 💼 Lecturer (October 2024 – July 2025)
+
 Department of CSE
+
 The People's University of Bangladesh
 Mohammadpur, Dhaka-1207
 
