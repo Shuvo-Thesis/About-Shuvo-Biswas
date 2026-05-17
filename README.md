@@ -9,14 +9,20 @@ He has excelled as a lecturer, researcher, and research assistant.
 📚 Academic Qualifications
 
 🎓 Masters of Science (Engineering) in Information and Communication Technology
+
 Mawlana Bhashani Science and Technology University (2023 - 2025)
 Santosh, Tangail, Bangladesh
+
 Thesis Title: FLPneXAINet: Federated deep learning and explainable AI for improved pneumonia prediction utilizing GAN-augmented chest X-ray data.
+
 Speciality: Machine Learning, Deep Learning, Federated Learning and Explainable AI
+
 Supervisor: Professor Dr. Muhammad Shahin Uddin, Department of ICT, MBSTU, Tangail, Bangladesh.
+
 Supervisors Comments: "Shuvo’s style of research is of international standard. His ideas are well-considered and implemented carefully."
 
 🎓 Bachelor of Science (Engineering) in Information and Communication Technology
+
 Mawlana Bhashani Science and Technology University (2016 - 2020)
 Santosh, Tangail, Bangladesh
 
