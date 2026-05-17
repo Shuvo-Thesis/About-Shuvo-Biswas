@@ -47,21 +47,20 @@ My research interest fields are Data Science, Machine Learning, Artificial Intel
 
 
 REFEREED JOURNALS ARTICLES
-S. Biswas, S. Saha, M. S. Uddin, and R. Mostafiz, "An Explainable and Federated Deep Learning Framework for Skin Cancer Diagnosis," PLoS One 20(7): e0324393, 2025. https://doi.org/10.1371/journal.pone.0324393
+1. S. Biswas, S. Saha, M. S. Uddin, and R. Mostafiz, "An Explainable and Federated Deep Learning Framework for Skin Cancer Diagnosis," PLoS One 20(7): e0324393, 2025. https://doi.org/10.1371/journal.pone.0324393
 
-S. Biswas, M. S. Uddin, M. S. Uddin, and R. Mostafiz, "FLPneXAINet: Federated Deep Learning and Explainable AI for Improved Pneumonia Prediction Utilizing GAN-Augmented Chest X-Ray Data," PLoS One 20(6): e0324957, 2025. https://doi.org/10.1371/journal.pone.0324957
+2. S. Biswas, M. S. Uddin, M. S. Uddin, and R. Mostafiz, "FLPneXAINet: Federated Deep Learning and Explainable AI for Improved Pneumonia Prediction Utilizing GAN-Augmented Chest X-Ray Data," PLoS One 20(6): e0324957, 2025. https://doi.org/10.1371/journal.pone.0324957
 
-S. Saha, S. Biswas, S. Sarkar, et al., "SkinFLNet: A Federated Learning Approach for Skin Cancer Detection Utilizing Skin Dermoscopy Images", Biomedical Materials & Devices (2025). https://doi.org/10.1007/s44174-025-00434-x
+3. S. Saha, S. Biswas, S. Sarkar, et al., "SkinFLNet: A Federated Learning Approach for Skin Cancer Detection Utilizing Skin Dermoscopy Images", Biomedical Materials & Devices (2025). https://doi.org/10.1007/s44174-025-00434-x
 
-M. N. Aktar, N. Basak, S. Biswas, H. Abdullah, M. S. Uddin, “SPR-Based Fiber Optic Sensor for the Development of Internet of Things (IoT) Technologies,” Plasmonics, pp. 1-11, Dec 2024, doi: https://doi.org/10.1007/s11468-024-02683-w
+4. M. N. Aktar, N. Basak, S. Biswas, H. Abdullah, M. S. Uddin, “SPR-Based Fiber Optic Sensor for the Development of Internet of Things (IoT) Technologies,” Plasmonics, pp. 1-11, Dec 2024, doi: https://doi.org/10.1007/s11468-024-02683-w
 
-F. Khanom, S. Biswas, M. S. Uddin, and R. Mostafiz, "XEMLPD: An Explainable Ensemble Machine Learning Approach for Parkinson Disease Diagnosis with Optimized Features,"International Journal of Speech Technology, no. 4, vol. 27, pp. 1055-1083, Oct 2024, doi: https://doi.org/10.1007/s10772-024-10152-2. 
+5. F. Khanom, S. Biswas, M. S. Uddin, and R. Mostafiz, "XEMLPD: An Explainable Ensemble Machine Learning Approach for Parkinson Disease Diagnosis with Optimized Features,"International Journal of Speech Technology, no. 4, vol. 27, pp. 1055-1083, Oct 2024, doi: https://doi.org/10.1007/s10772-024-10152-2. 
 
-S. Biswas, R. Mostafiz, B. K. Paul, K. M. M. Uddin, Md. A. Hadi, and F. Khanom, “DFU _ XAI: A Deep Learning-Based Approach to Diabetic Foot Ulcer Detection Using Feature Explainability,” Biomedical Materials & Devices, vol. 2, pp. 1225–1245, Sep 2024, doi: https://doi.org/10.1007/s44174-024-00165-5.
+6. S. Biswas, R. Mostafiz, B. K. Paul, K. M. M. Uddin, Md. A. Hadi, and F. Khanom, “DFU _ XAI: A Deep Learning-Based Approach to Diabetic Foot Ulcer Detection Using Feature Explainability,” Biomedical Materials & Devices, vol. 2, pp. 1225–1245, Sep 2024, doi: https://doi.org/10.1007/s44174-024-00165-5.
 
-S. Biswas, R. Mostafiz, M. S. Uddin, B. K. Paul, "XAI-FusionNet: Diabetic foot ulcer detection based on multi-scale feature fusion with explainable artificial intelligence," Heliyon, vol. 10, no. 10, p. e31228, May 2024, doi: https://doi.org/10.1016/j.heliyon.2024.e31228.
+7. S. Biswas, R. Mostafiz, M. S. Uddin, B. K. Paul, "XAI-FusionNet: Diabetic foot ulcer detection based on multi-scale feature fusion with explainable artificial intelligence," Heliyon, vol. 10, no. 10, p. e31228, May 2024, doi: https://doi.org/10.1016/j.heliyon.2024.e31228.
 
-S. Biswas, R. Mostafiz, B. K. Paul, K. M. Mohi Uddin, M. M. Rahman, and F. N. U. Shariful, “DFU _ MultiNet: A deep neural network approach for detecting diabetic foot ulcers through multi-scale feature fusion using the DFU dataset,” Intelligence-Based Medicine, vol. 8, p. 100128, Jan 2023, doi: https://doi.org/10.1016/j.ibmed.2023.100128
+8. S. Biswas, R. Mostafiz, B. K. Paul, K. M. Mohi Uddin, M. M. Rahman, and F. N. U. Shariful, “DFU _ MultiNet: A deep neural network approach for detecting diabetic foot ulcers through multi-scale feature fusion using the DFU dataset,” Intelligence-Based Medicine, vol. 8, p. 100128, Jan 2023, doi: https://doi.org/10.1016/j.ibmed.2023.100128
 
-
-Thank you for visiting my GitHub! Feel free to explore my repositories and connect with me on LinkedIn for further collaboration and discussions. 🌟
+Thank you for visiting my GitHub!🌟
