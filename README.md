@@ -28,6 +28,7 @@ Mawlana Bhashani Science and Technology University (2016 - 2020)
 Santosh, Tangail, Bangladesh
 
 🚀 Professional Experiences
+
 🔍 Current Position:
 
 💼 Lecturer
@@ -44,6 +45,7 @@ The People's University of Bangladesh
 Mohammadpur, Dhaka-1207
 
 📚 Areas of Research
+
 My research interest fields are Data Science, Machine Learning, Artificial Intelligence (AI). My research in AI involves developing intelligent systems and agents capable of simulating human-like behavior, problem-solving, and decision-making. By combining expertise in Data Science, Machine Learning, and AI, my research aims to advance knowledge and contribute to developing innovative solutions for a wide range of industries and societal challenges.
 
 
