@@ -2,8 +2,9 @@ Hi there 👋
 🚀 Welcome to My GitHub Readme!
 
 Overview
+
 Shuvo Biswas a passionate and accomplished Lecturer in AI/Machine Learning, currently serving at Bangladesh University of Business and Technology (BUBT). 
-He has Obtained his MSc degree in Computer Vision from Mawlana Bhashani Science and Technology University in 2025 has been a pivotal point in his career, igniting his passion for research, program coordination, and academic leadership. 
+He has Obtained his BSc and MSc degree in Information and Communication Technology (ICT) from Mawlana Bhashani Science and Technology University in 2020 & 2025 has been a pivotal point in his career, igniting his passion for research, program coordination, and academic leadership. 
 He has excelled as a lecturer, researcher, and research assistant.
 
 📚 Academic Qualifications
